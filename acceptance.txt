@@ -1,0 +1,1 @@
+Minimal fixture for actual patched SDK publishing helpers; app-acceptance-20261119T034949Z-c942ee
